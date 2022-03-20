@@ -2,7 +2,7 @@
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
 function getHomeURL(){
-    return "http://localhost/hana/";
+    return "http://localhost/generate-invoice/";
 }
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'root');
